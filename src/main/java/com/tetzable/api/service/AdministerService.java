@@ -1,4 +1,4 @@
-package me.foodtips.api.service;
+package com.tetzable.api.service;
 
 //
 //import com.baomidou.mybatisplus.extension.service.IService;

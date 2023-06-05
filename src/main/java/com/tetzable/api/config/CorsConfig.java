@@ -1,4 +1,4 @@
-package me.foodtips.api.config;
+package com.tetzable.api.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

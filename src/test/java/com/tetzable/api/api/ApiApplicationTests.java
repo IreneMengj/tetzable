@@ -1,4 +1,4 @@
-package me.foodtips.api.api;
+package com.tetzable.api.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

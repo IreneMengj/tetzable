@@ -1,9 +1,9 @@
-package me.foodtips.api.service.impl;
+package com.tetzable.api.service.impl;
 
 //import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 //import me.foodtips.api.mapper.TesterMapper;
-//import me.foodtips.api.model.Tester;
-//import me.foodtips.api.service.TesterService;
+//import Tester;
+//import TesterService;
 //import org.springframework.stereotype.Service;
 
 //import me.foodtips.api.mapper.TesterRepository;

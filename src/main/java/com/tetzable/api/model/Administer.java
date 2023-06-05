@@ -1,4 +1,4 @@
-package me.foodtips.api.model;
+package com.tetzable.api.model;
 
 
 //import com.baomidou.mybatisplus.annotation.TableName;

@@ -1,9 +1,9 @@
-package me.foodtips.api.controller;
+package com.tetzable.api.controller;
 
 
+import com.tetzable.api.model.Tester;
+import com.tetzable.api.service.TesterService;
 import lombok.extern.slf4j.Slf4j;
-import me.foodtips.api.model.Tester;
-import me.foodtips.api.service.TesterService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

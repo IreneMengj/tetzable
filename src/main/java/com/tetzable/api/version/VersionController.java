@@ -1,4 +1,4 @@
-package me.foodtips.api.version;
+package com.tetzable.api.version;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package me.foodtips.api.config;
+package com.tetzable.api.config;
 
 //import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
 //import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;

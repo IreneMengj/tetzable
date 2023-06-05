@@ -1,14 +1,14 @@
-package me.foodtips.api.service;
+package com.tetzable.api.service;
 
 
 //import com.baomidou.mybatisplus.extension.service.IService;
-//import me.foodtips.api.model.Tester;
+//import Tester;
 //import org.springframework.stereotype.Service;
 
 
 //public interface TesterService extends IService<Tester> {
 //}
-import me.foodtips.api.model.Tester;
+import com.tetzable.api.model.Tester;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TesterService extends JpaRepository<Tester, Integer> {

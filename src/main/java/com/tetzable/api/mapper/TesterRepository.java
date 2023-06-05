@@ -1,11 +1,11 @@
-package me.foodtips.api.mapper;
+package com.tetzable.api.mapper;
 
 
 
 ////@Mapper
 ////public interface AdministerMapper extends BaseMapper<Administer> {
 ////}
-//import me.foodtips.api.model.Tester;
+//import Tester;
 //import org.springframework.data.jpa.repository.JpaRepository;
 //
 //public interface TesterRepository extends JpaRepository<Tester, Integer> {
